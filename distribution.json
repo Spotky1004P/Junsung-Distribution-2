@@ -256,13 +256,13 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.1@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4632842,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.50.1.jar",
-            "MD5": "7de8f79ffe08269680d5af154bcf2686"
+            "size": 2678747,
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
+            "MD5": "12954551f39bed840b32fd8be8fddb54"
           }
         },
         {
@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 385736381,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Pixelmon-1.12.2-8.4.3-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Q8fEBG8j/Pixelmon-1.12.2-8.4.3-universal.jar",
             "MD5": "8584a4b9e820743f3058872e713c714f"
           }
         },
