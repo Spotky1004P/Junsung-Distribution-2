@@ -256,13 +256,13 @@
           ]
         },
         {
-          "id": "moe.plushie:armourers_workshop:1.12.2-0.51.0@jar",
+          "id": "moe.plushie:armourers_workshop:1.12.2-0.50.1@jar",
           "name": "Armourer's Workshop",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2678747,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.51.0.jar",
-            "MD5": "12954551f39bed840b32fd8be8fddb54"
+            "size": 4632842,
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Armourers-Workshop-1.12.2-0.50.1.jar",
+            "MD5": "7de8f79ffe08269680d5af154bcf2686"
           }
         },
         {
@@ -276,32 +276,12 @@
           }
         },
         {
-          "id": "mezz.jei:jei:4.16.1.301@jar",
-          "name": "Just Enough Items",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 653211,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/jei_1.12.2-4.16.1.301.jar",
-            "MD5": "1dee4be93d666e2228039c551e927b35"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.12.2-5.7.1@jar",
-          "name": "JourneyMap",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6990968,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/journeymap-1.12.2-5.7.1.jar",
-            "MD5": "8160b970fc14cff30dff2785bb9f964c"
-          }
-        },
-        {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
           "name": "Korean Chat",
           "type": "ForgeMod",
           "artifact": {
             "size": 30763,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/koreanchat-creo-1.12-1.9.jar",
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/koreanchat-creo-1.12-1.9.temp.jar",
             "MD5": "91492de16021a4f7018eb5d523f45fc2"
           }
         },
