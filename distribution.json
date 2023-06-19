@@ -311,7 +311,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 385736381,
-            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/Pixelmon-1.12.2-8.4.3-universal.jar",
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/Q8fEBG8j/Pixelmon-1.12.2-8.4.3-universal.jar",
             "MD5": "8584a4b9e820743f3058872e713c714f"
           }
         },
