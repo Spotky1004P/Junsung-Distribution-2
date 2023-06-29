@@ -276,6 +276,16 @@
           }
         },
         {
+          "id": "dareharu.haru:dareharudareharu:0.45.0-final_1@jar",
+          "name": "DareHaruDareHaru",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2538877,
+            "url": "https://github.com/Spotky1004P/Junsung-Distribution-2/raw/main/servers/Dubious-1.12.2/forgemods/required/DareHaruDareHaru-0.45.0-final_1.jar",
+            "MD5": "26c2de4a80165914e894248589b0bbdf"
+          }
+        },
+        {
           "id": "creo.mod:koreanchat:1.12-1.9@jar",
           "name": "Korean Chat",
           "type": "ForgeMod",
