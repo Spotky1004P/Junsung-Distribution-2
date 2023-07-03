@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "Dubious (Minecraft 1.12.2)",
       "description": "Dubious Running Minecraft 1.12.2 (Forge v14.23.5.2860)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "dubious.kr",
       "minecraftVersion": "1.12.2",
       "discord": {
